@@ -53,3 +53,9 @@
 <img src="https://raw.githubusercontent.com/skip-sbt/skip-sbt/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/skip-sbt/count.svg?"  />
+</div>
+
+###
